@@ -1,0 +1,8 @@
+venv/
+Lib/
+share/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
