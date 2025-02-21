@@ -1,0 +1,2 @@
+Custom KNN Accuracy: 1.00
+Scikit-Learn KNN Accuracy: 1.00
